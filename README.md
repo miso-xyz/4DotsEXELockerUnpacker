@@ -4,6 +4,6 @@ This application can unpack Locked Executable Application Locked by "Standalone 
 
 Please read this thread for more information [4 Dots (Standalone EXE Locker) Unpacker (sinister.ly)](temp)
 
-[Start](KRcGpX_STtu3IKFB8zH_Tw.png)
-(t2uqMxMSREy6jfds-wCPyA.png)
-(UCKYe6_ATA_gxAutyOkwYQ.png)
+![Start](KRcGpX_STtu3IKFB8zH_Tw.png)
+!(t2uqMxMSREy6jfds-wCPyA.png)
+!(UCKYe6_ATA_gxAutyOkwYQ.png)
